@@ -54,16 +54,6 @@
 - ⚡ **Speed**: Efficient decision making
 - 🎲 **Strategy**: Considers all possible moves and outcomes
 
-## 📜 License
-
-📄 **MIT License** - Feel free to use, modify, and distribute!
-
-```
-Copyright (c) 2023 Your Name
-
-Permission is hereby granted...
-```
-
 ## 🙏 Contributing
 
 🤝 **Contributions Welcome!**
